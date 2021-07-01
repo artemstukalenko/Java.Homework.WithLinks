@@ -1,0 +1,12 @@
+[submodule "Task1_Basic_Java"]
+	path = Task1_Basic_Java
+	url = git@github.com:artemstukalenko/Task1_Basic_Java.git
+[submodule "Task2_Java_Game"]
+	path = Task2_Java_Game
+	url = git@github.com:artemstukalenko/Task2_Java_Game.git
+[submodule "Task2_Testing"]
+	path = Task2_Testing
+	url = git@github.com:artemstukalenko/Task2_Testing.git
+[submodule "Task3_Javagame_With_Tests"]
+	path = Task3_Javagame_With_Tests
+	url = git@github.com:artemstukalenko/Task3_Javagame_With_Tests.git
