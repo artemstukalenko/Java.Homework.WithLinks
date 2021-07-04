@@ -10,3 +10,6 @@
 [submodule "Task3_Javagame_With_Tests"]
 	path = Task3_Javagame_With_Tests
 	url = git@github.com:artemstukalenko/Task3_Javagame_With_Tests.git
+[submodule "Task4_DataInputForm"]
+	path = Task4_DataInputForm
+	url = git@github.com:artemstukalenko/Task4_DataInputForm.git
