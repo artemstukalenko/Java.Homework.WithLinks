@@ -13,3 +13,6 @@
 [submodule "Task4_DataInputForm"]
 	path = Task4_DataInputForm
 	url = git@github.com:artemstukalenko/Task4_DataInputForm.git
+[submodule "Task5_DataInputFormRefactor"]
+	path = Task5_DataInputFormRefactor
+	url = git@github.com:artemstukalenko/Task5_DataInputFormRefactor.git
