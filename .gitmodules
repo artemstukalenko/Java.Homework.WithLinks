@@ -19,3 +19,6 @@
 [submodule "Task6_DataInputFormWithException"]
 	path = Task6_DataInputFormWithException
 	url = git@github.com:artemstukalenko/Task6_DataInputFormWithException.git
+[submodule "Task6_CodeFromHabrExceptions"]
+	path = Task6_CodeFromHabrExceptions
+	url = git@github.com:artemstukalenko/Task6_CodeFromHabrExceptions.git
