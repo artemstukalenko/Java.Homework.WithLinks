@@ -16,3 +16,6 @@
 [submodule "Task5_DataInputFormRefactor"]
 	path = Task5_DataInputFormRefactor
 	url = git@github.com:artemstukalenko/Task5_DataInputFormRefactor.git
+[submodule "Task6_DataInputFormWithException"]
+	path = Task6_DataInputFormWithException
+	url = git@github.com:artemstukalenko/Task6_DataInputFormWithException.git
