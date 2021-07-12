@@ -22,3 +22,6 @@
 [submodule "Task6_CodeFromHabrExceptions"]
 	path = Task6_CodeFromHabrExceptions
 	url = git@github.com:artemstukalenko/Task6_CodeFromHabrExceptions.git
+[submodule "Task7_ObjectMethodsAndImmutable"]
+	path = Task7_ObjectMethodsAndImmutable
+	url = git@github.com:artemstukalenko/Task7_ObjectMethodsAndImmutable.git
