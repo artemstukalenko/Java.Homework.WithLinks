@@ -25,3 +25,6 @@
 [submodule "Task7_ObjectMethodsAndImmutable"]
 	path = Task7_ObjectMethodsAndImmutable
 	url = git@github.com:artemstukalenko/Task7_ObjectMethodsAndImmutable.git
+[submodule "AlgorytmTasks"]
+	path = AlgorytmTasks
+	url = git@github.com:artemstukalenko/AlgorythmTasks.git
