@@ -28,3 +28,6 @@
 [submodule "AlgorytmTasks"]
 	path = AlgorytmTasks
 	url = git@github.com:artemstukalenko/AlgorythmTasks.git
+[submodule "Task8_Collections"]
+	path = Task8_Collections
+	url = git@github.com:artemstukalenko/Task8_Collections.git
