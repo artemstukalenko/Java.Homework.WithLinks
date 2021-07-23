@@ -31,3 +31,6 @@
 [submodule "Task8_Collections"]
 	path = Task8_Collections
 	url = git@github.com:artemstukalenko/Task8_Collections.git
+[submodule "Task9_Streams"]
+	path = Task9_Streams
+	url = git@github.com:artemstukalenko/Task9_Streams.git
