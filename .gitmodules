@@ -34,3 +34,6 @@
 [submodule "Task9_Streams"]
 	path = Task9_Streams
 	url = git@github.com:artemstukalenko/Task9_Streams.git
+[submodule "Task10_CaloriesCalculator"]
+	path = Task10_CaloriesCalculator
+	url = git@github.com:artemstukalenko/Task10_CaloriesCalculator.git
