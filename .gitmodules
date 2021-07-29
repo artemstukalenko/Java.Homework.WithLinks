@@ -37,3 +37,6 @@
 [submodule "Task10_CaloriesCalculator"]
 	path = Task10_CaloriesCalculator
 	url = git@github.com:artemstukalenko/Task10_CaloriesCalculator.git
+[submodule "Project_library"]
+	path = Project_library
+	url = git@github.com:artemstukalenko/ProjectLibrary.git
