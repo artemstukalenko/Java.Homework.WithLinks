@@ -40,3 +40,6 @@
 [submodule "Project_library"]
 	path = Project_library
 	url = git@github.com:artemstukalenko/ProjectLibrary.git
+[submodule "ProjectLibraryWithBoot"]
+	path = ProjectLibraryWithBoot
+	url = git@github.com:artemstukalenko/ProjectLibraryWithBoot.git
